@@ -31,3 +31,13 @@ I am 18 years old. I am a first-year student at BSUIR. I keen on programming and
   let count = CreateCounter();
   console.log(count());
 ```
+
+# Education
+
+- **Belarusian State University of Informatics and Radioelectronics**
+
+# Languages
+
+- **Russian** - native speaker.
+- **Belarusian** - native speaker.
+- **English** - B1
