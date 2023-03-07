@@ -2,11 +2,11 @@
 
 ## Contacts
 
-**Localtion** Minsk, Belarus
-**Phone:** +375 44 558-65-59
-**E-mail:** [n_ryabtsev1@mail.ru](n_ryabtsev1@mail.ru)
-**GitHub:** [nikita10001](https://github.com/nikita10001)
-**Telegram** [Nikita](https://t.me/n_ryabtsev1)
+- **Location:** Minsk, Belarus
+- **Phone:** +375 44 558-65-59
+- **Email:** [n_ryabtsev1@mail.ru](n_ryabtsev1@mail.ru)
+- **GitHub:** [nikita10001](https://github.com/nikita10001)
+- **Telegram:** [Nikita](https://t.me/n_ryabtsev1)
 
 ## About
 
