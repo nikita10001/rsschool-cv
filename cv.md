@@ -12,14 +12,14 @@
 
 I am 18 years old. I am a first-year student at BSUIR. I keen on programming and web development. My core strengths is fast learning and self-discipline.
 
-# Skills
+## Skills
 
 - HTML
 - CSS (SASS/SCSS, BEM)
 - JavaScript
 - Git
 
-# Code Example
+## Code Example
 
 ```
   function CreateCounter() {
@@ -32,11 +32,11 @@ I am 18 years old. I am a first-year student at BSUIR. I keen on programming and
   console.log(count());
 ```
 
-# Education
+## Education
 
 - **Belarusian State University of Informatics and Radioelectronics**
 
-# Languages
+## Languages
 
 - **Russian** - native speaker.
 - **Belarusian** - native speaker.
