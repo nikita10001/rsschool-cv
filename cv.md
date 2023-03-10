@@ -8,7 +8,7 @@
 - **GitHub:** [nikita10001](https://github.com/nikita10001)
 - **Telegram:** [Nikita](https://t.me/n_ryabtsev1)
 - **Discord:** nikita10001
-- 
+ 
 ## About
 
 I am 18 years old. I am a first year student at BSUIR. I want to become a frontend developer because I keen on it. I see the purpose of my life in constant progress. So I try to learn something new every day. I also hope to find people with the same interests. My strengths are self-discipline and time management.
